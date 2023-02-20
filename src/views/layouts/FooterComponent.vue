@@ -8,7 +8,7 @@
         <div class="container">
           <div class="fb_in">
             <div class="fb_left">
-              <p>&#128504; Maxvel</p>
+              <p>🗸 Maxvel</p>
             </div>
             <div class="fb_right">
               <ul>
@@ -17,7 +17,7 @@
                 <li><a target="_blank" rel="noopener noreferrer"
                        href="https://t.me/maxvelx1"><i class="fn-icon-telegram"></i></a></li>
                 <li><a href="mailto:maxvelx.develop@gmail.com"><i class="fn-icon-email"></i></a></li>
-                <li><a href="#">Resume.pdf</a></li>
+                <li><a href="https://www.linkedin.com/in/max-ivanchenko-534205267/">Linked-In</a></li>
               </ul>
             </div>
 

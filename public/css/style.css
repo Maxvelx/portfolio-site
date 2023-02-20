@@ -757,10 +757,10 @@ a.full_link{
 	background-color: var(--mc);
 	left: 100%;
 	margin-left: 14px;
-	top: -2px;
+	top: 10px;
 	position: absolute;
 	z-index: 3;
-	transition: all 10.3s ease;
+	transition: all 0.3s ease;
 }
 .neoh_fn_button .fn__svg{
 	width: 22px;

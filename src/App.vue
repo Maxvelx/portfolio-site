@@ -31,9 +31,9 @@
             <span class="icon"><i class="fn-icon-github-1"></i></span>
             <span class="text">Github</span>
           </a>
-          <a href="" class="neoh_fn_button">
-            <span class="icon"><i class="fn-icon-ok"></i></span>
-            <span class="text">Resume.pdf</span>
+          <a href="https://www.linkedin.com/in/max-ivanchenko-534205267/" class="neoh_fn_button">
+            <span class="icon"><i class="fn-icon-linkedin-1"></i></span>
+            <span class="text">Linked-In</span>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@
       <!-- Nav Footer -->
       <div class="nav_footer">
         <div class="nf_left">
-          <p>&#128504; Maxvel</p>
+          <p>🗸 Maxvel</p>
         </div>
         <div class="nf_right">
           <div class="neoh_fn_social_list">
